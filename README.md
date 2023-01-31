@@ -1,2 +1,0 @@
-# Esprit-Symfony
-Required Exercises 
