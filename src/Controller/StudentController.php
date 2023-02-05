@@ -8,7 +8,6 @@ class StudentController extends AbstractController
 {
     public function index()
     {
-        return 'Bonjour mes étudiants';
+        return $this->json(['message' => 'Bonjour mes etudiants']);
     }
 }
-
